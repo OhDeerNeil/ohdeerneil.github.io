@@ -1,2 +1,19 @@
+# Site-wide settings
+# ------------------
+
+title: Your awesome title
+
+author:
+   name: OhDeerNeil
+#   email: your-email@domain.com
+
+description: >
+  Welcome to my portfolio, this place will be a history of all the things I've worked on, personal and professional!
+
 
 remote_theme: "jekyll/minima@1e8a445"
+
+# Minima requires the following plugins:
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
