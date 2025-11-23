@@ -1,0 +1,86 @@
+{{ define "main" }}
+<div class="container">
+    <div class="content about">
+        <div class="intro">
+            <div class="col-lg-4 intro-content">
+                <h2>Hellow!</h2>
+                <p>
+                    todo add who you are here
+                </p>
+
+                <p>
+                    talk about yourself
+                </p>
+            </div>
+            <div class="intro-image">
+                {{ $image := resources.GetMatch "profile_pic.jpg" }}
+                <img src="{{ $image.RelPermalink }}" height="300px" width="auto"/>
+            </div>
+        </div>
+
+        <h2>My Skills</h2>
+        <div class="skills-container">
+            <div class="skill-section">
+                <h4>Game Development</h4>
+                <ul>
+                    <li>C++, C#, UE Blueprinting</li>
+                    <li>Unity, Unreal 4</li>
+                    <li>Git, Perforce</li>
+                    <li>3dsMax, Photoshop</li>
+                </ul>
+            </div>
+        </div>
+
+        <br />
+
+        <h2>My Carreer</h2>
+        <ul>
+            <li>
+                 <p>
+                    Sep 2021 - Present // <b>gameplay Programmer</b> @
+                    <i><a href="https://www.triangle-factory.be/" target="_blank">Triangle Factory</a> (BE)</i>
+                </p>
+                <ul>
+                    <li>
+                        Working as a gameplay programmer for both Breachers and Forefront.
+                    </li>
+                    <li><a href="https://www.breachersvr.com/" target="_blank">Breachers</a></li>
+                    <li><a href="https://www.triangle-factory.be/forefront/" target="_blank">Forefront</a></li>
+                </ul>
+                <p>
+                    Feb 2021 - Sept 2021 // <b>Junior gameplay Programmer</b> @
+                    <i><a href="https://onebonsai.com/" target="_blank">OneBonsai</a> (BE)</i>
+                </p>
+                <ul>
+                    <li>
+                        Designing and supporting VR trainings made for different clients. 
+                    </li>
+                    <li>Creating new, reusable features to be used in different projects where possible</li>
+                    <li>Helping out with bugs and features in different trainings</li>
+                </ul>
+            </li>
+        </ul>
+
+        <br />
+
+        <h2>My Education</h2>
+
+        <div>
+            <div class="education-item">
+                <div class="education-year">
+                    <p>2017 - 2021</p>
+                </div>
+                <div class="education-description">
+                    <p>
+                        <b>Bachelor's Degree in Game Development in Digital Arts and Entertainment</b><br />
+                        <i>
+                            <a href="https://www.howest.be/en" target="_blank">Howest University of Applied Sciences</a
+                            >, Kortrijk (BE)
+                        </i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
