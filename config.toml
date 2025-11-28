@@ -2,6 +2,14 @@ baseURL = 'https://ohdeerneil.github.io/'
 languageCode = 'en-us'
 title = 'Portfolio'
 theme = 'beautifulhugo'
+copyright = "©️ 2021 - 2025 | Neil De Hert"
+
+[params]
+  description = "Enthousiastic Game Programmer"
+
+[Params.author]
+    name = "Neil De Hert"
+    website = "https://ohdeerneil.github.io"
 
 
 [menu]

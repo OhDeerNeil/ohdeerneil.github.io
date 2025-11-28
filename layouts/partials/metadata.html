@@ -1,0 +1,36 @@
+{{ $isArticle := and (.IsPage) (ne .Page.Type "about-me") }}
+
+{{ $ogType := "website" }}
+{{ $twitterType := "summary" }}
+{{ $img := printf "%s" "/PortfolioBanner.png" | printf "%s%s" .Site.BaseURL | printf "%s" }}
+{{ $description := .Site.Params.description }}
+
+{{ if $isArticle }}
+    {{ $ogType = "article" }}
+    {{ $twitterType = "summary_large_image" }}
+    {{ $img = .Params.Cover }}
+    
+    {{ with .Description }}
+        {{ $description = . }}
+    {{ else }}
+        {{ if .IsPage }}
+            {{ $description = .Summary }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<meta name="description" content="{{ $description }}" />
+
+<!-- OpenGraph -->
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ $description }}" />
+<meta property="og:type" content="{{ $ogType }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ $img }}" />
+
+<!-- Twitter card -->
+<meta name="twitter:title" content="{{ .Title }}" />
+<meta name="twitter:description" content="{{ $description }}"/>
+<meta name="twitter:card" content="{{ $twitterType }}" />
+<meta name="twitter:image" content="{{ $img }}" />
+<meta name="twitter:site" content="@{{ .Site.Params.Twitter.Creator }}" />

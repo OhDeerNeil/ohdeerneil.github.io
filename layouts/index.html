@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main id="home">
+    <h1>My work</h1>
+    <div id="home-grid">
+        {{ range .Site.RegularPages }}
+            {{ if .Params.Featured }}
+                <div class="project-card">
+                    <a href="{{ .RelPermalink }}" class="card-cover">
+                        {{ $image := .Resources.GetMatch .Params.Cover }}
+                        <img src="{{ $image.RelPermalink }}" />
+                    </a>
+                    <div class="card-content">
+                        <div class="card-title">
+                            {{ .Title }}
+                        </div>
+                        <div class="card-description">
+                            {{ .Params.Description }}
+                        </div>
+                        <a href="{{ .RelPermalink }}" class="card-link">
+                            Read more...
+                        </a>
+                    </div>
+                    <div class="card-tags">
+                        {{ range .Params.Tags }}
+                        <span class="tag">
+                            {{ . }}
+                        </span>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+</main>
+{{ end }}

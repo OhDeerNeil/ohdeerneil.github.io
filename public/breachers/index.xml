@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breachers on Portfolio</title>
+    <link>http://localhost:1313/breachers/</link>
+    <description>Recent content in Breachers on Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 18:26:17 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/breachers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breachers</title>
+      <link>http://localhost:1313/breachers/breachers/</link>
+      <pubDate>Sun, 23 Nov 2025 18:26:17 +0100</pubDate>
+      <guid>http://localhost:1313/breachers/breachers/</guid>
+      <description>&lt;p&gt;During this time I got brought onto the production phase of Breachers, where we wanted to bring together CSGO and Rainbow Six Siege into VR.&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=MlFI6vA5kGA&#34;&gt;Trailer link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;all the features I&amp;rsquo;ve worked on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ping system&lt;/li&gt;&#xA;&lt;li&gt;attachment refunding&lt;/li&gt;&#xA;&lt;li&gt;Gadgets:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Proximity Sensor&lt;/li&gt;&#xA;&lt;li&gt;Cloaking Device&lt;/li&gt;&#xA;&lt;li&gt;Static Field Emitter&lt;/li&gt;&#xA;&lt;li&gt;Incendiary grenade&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;vaulting&lt;/li&gt;&#xA;&lt;li&gt;bot take over&lt;/li&gt;&#xA;&lt;li&gt;in game UI&lt;/li&gt;&#xA;&lt;li&gt;Submission process: VRC&amp;rsquo;s Quest/Rift&lt;/li&gt;&#xA;&lt;li&gt;Frontend Analytics&lt;/li&gt;&#xA;&lt;li&gt;PSVR port&lt;/li&gt;&#xA;&lt;li&gt;Omni One Port&lt;/li&gt;&#xA;&lt;li&gt;voicechat and related gameplay ellements&lt;/li&gt;&#xA;&lt;li&gt;toxmod support&lt;/li&gt;&#xA;&lt;li&gt;Vive port&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
