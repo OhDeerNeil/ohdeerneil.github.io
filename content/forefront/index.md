@@ -9,5 +9,8 @@ cover= "ForeFront_Logo.png"
 weight= 3
 +++
 
+During this time I got brought onto the production phase of [Forefront](https://www.youtube.com/watch?v=QQhvyFRlYcs).
+
+{{< youtube QQhvyFRlYcs >}}
 
 all the work I've done on forefront
