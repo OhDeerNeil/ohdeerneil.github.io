@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>©️ 2021 - 2025 | Neil De Hert</copyright>
-    <lastBuildDate>Fri, 28 Nov 2025 11:25:25 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 11:25:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/blueprinting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onebonsai</title>
       <link>http://localhost:1313/onebonsai/</link>
-      <pubDate>Fri, 28 Nov 2025 11:25:25 +0100</pubDate>
+      <pubDate>Sun, 14 Feb 2021 11:25:25 +0100</pubDate>
       <guid>http://localhost:1313/onebonsai/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;created-with&#34;&gt;Created with&lt;/h3&gt;&#xA;&lt;p&gt;Unreal4&lt;/p&gt;&#xA;&lt;p&gt;Development for: Meta Quest 1&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-team&#34;&gt;The team:&lt;/h2&gt;&#xA;&lt;p&gt;Under OneBonsai, with a team of about 5 people&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My role:&lt;/h2&gt;&#xA;&lt;p&gt;As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, and implementing the trainings in rapid fashion for when itteration was needed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
