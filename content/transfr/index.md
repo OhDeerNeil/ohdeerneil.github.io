@@ -1,6 +1,6 @@
 +++
 title= "Transfr"
-date = '2025-11-28T11:05:08+01:00'
+date = '2021-10-01T11:05:08+01:00'
 draft = true
 tags= ["B2B", "C#"]
 featured= true

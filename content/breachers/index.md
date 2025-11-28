@@ -1,13 +1,28 @@
 +++
-date = '2025-11-23T18:26:17+01:00'
+date = '2023-04-13T18:26:17+01:00'
 draft = true
 title = 'Breachers'
+tags= ["Games", "C#"]
+featured= true
+description= "Breachers: a competitive shooter in VR"
+cover= "BreachersLogo.png"
+weight= 3
 +++
 
-During this time I got brought onto the production phase of Breachers, where we wanted to bring together CSGO and Rainbow Six Siege into VR.
+During this time I got brought onto the production phase of Breachers.
 [Trailer link](https://www.youtube.com/watch?v=MlFI6vA5kGA)
 
-all the features I've worked on:
+### Created with 
+Unity3D
+
+Developed for: Meta Quest 2/Meta Quest 3, Oculus Rift, Pico, Omni One, Viveport, Playstation VR2, Steam VR
+
+## The team:
+Created by TriangleFactory, at peak the team was around 25 people.
+
+## My role:
+As a junior programmer, my role existed out of the expected support of main features, with the following being some of the main features I was responsible for
+
 * ping system
 * attachment refunding
 * Gadgets:
@@ -15,7 +30,7 @@ all the features I've worked on:
 	 - Cloaking Device
 	 - Static Field Emitter
 	 - Incendiary grenade
-* vaulting 
+* Vaulting 
 * bot take over
 * in game UI
 * Submission process: VRC's Quest/Rift

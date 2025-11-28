@@ -1,6 +1,6 @@
 baseURL = 'https://ohdeerneil.github.io/'
 languageCode = 'en-us'
-title = 'Portfolio'
+title = 'Neil De Hert'
 theme = 'beautifulhugo'
 copyright = "©️ 2021 - 2025 | Neil De Hert"
 
