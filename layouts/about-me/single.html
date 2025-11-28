@@ -2,8 +2,8 @@
 
 <div class="container">
     <div class="content about">
-        <div class="intro" id="#wrapper">
-            <div class="intro-content" id="first">
+        <div class="intro">
+            <div class="intro-content">
                 <h2>Hellow!</h2>
                 <p>
                     I'm Neil De Hert! An enthousiastic gameplay programmer heralding from Antwerp, Belgium. I love games, and love talking about the different stories that come from this digital hobby we share.
@@ -14,7 +14,7 @@
                 </p>
             </div>
             
-            <div class="intro-image" id="second">
+            <div class="intro-image">
                 {{ $image := resources.GetMatch "profile_pic.jpg" }}
                 <img src="{{ $image.RelPermalink }}" height="300px" width="auto"/>
             </div>
