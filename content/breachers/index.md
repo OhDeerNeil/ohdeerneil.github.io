@@ -9,28 +9,26 @@ cover= "BreachersLogo.png"
 weight= 3
 +++
 
-During this time I got brought onto the production phase of [Breachers](https://www.youtube.com/watch?v=MlFI6vA5kGA).
+### The project:
 
-{{< youtube MlFI6vA5kGA >}}
+ [Breachers](https://www.youtube.com/watch?v=MlFI6vA5kGA) is a competitive VR shooter with the main goal to win. With an ingame economy, different weapons and gadgets to facilitate high intensity gameplay.
 
-### Created with 
-Unity3D
+**Created with** Unity3D, Blender, Photon Fusion
+**Developed for** Meta Quest 2/Meta Quest 3, Oculus Rift, Pico, Omni One, Viveport, Playstation VR2, Steam VR
 
-Developed for: Meta Quest 2/Meta Quest 3, Oculus Rift, Pico, Omni One, Viveport, Playstation VR2, Steam VR
-
-## The team:
+### The team:
 Created by TriangleFactory, at peak the team was around 25 people.
 
-## My role:
+### My role:
 As a junior programmer, my role existed out of the expected support of main features, with the following being some of the main features I was responsible for
 
 * ping system
 * attachment refunding
 * Gadgets:
-	 - Proximity Sensor
-	 - Cloaking Device
-	 - Static Field Emitter
-	 - Incendiary grenade
+	- Proximity Sensor
+	- Cloaking Device
+	- Static Field Emitter
+	- Incendiary grenade
 * Vaulting 
 * bot take over
 * in game UI
@@ -41,3 +39,6 @@ As a junior programmer, my role existed out of the expected support of main feat
 * voicechat and related gameplay ellements
 * toxmod support
 * Vive port
+
+				 
+{{< youtube MlFI6vA5kGA >}}

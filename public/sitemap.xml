@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/breachers/</loc>
     <lastmod>2023-04-13T18:26:17+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/transfr/</loc>
+    <lastmod>2021-10-01T11:05:08+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/onebonsai/</loc>
     <lastmod>2021-02-14T11:25:25+01:00</lastmod>
   </url><url>
@@ -24,9 +27,6 @@
     <lastmod>2025-11-28T11:08:53+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/b2b/</loc>
-    <lastmod>2021-10-01T11:05:08+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/transfr/</loc>
     <lastmod>2021-10-01T11:05:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blueprinting/</loc>

@@ -10,18 +10,18 @@
     <lastBuildDate>Fri, 01 Oct 2021 11:05:08 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/b2b/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Onebonsai</title>
-      <link>http://localhost:1313/onebonsai/</link>
-      <pubDate>Sun, 14 Feb 2021 11:25:25 +0100</pubDate>
-      <guid>http://localhost:1313/onebonsai/</guid>
-      <description>&lt;p&gt;OneBonsai is scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technical-details&#34;&gt;Technical details&lt;/h2&gt;&#xA;&lt;p&gt;UE4, Perforce, Development for: Meta Quest and PCVR&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-team&#34;&gt;The team:&lt;/h2&gt;&#xA;&lt;p&gt;Under OneBonsai, with a team of about 5 people&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My role:&lt;/h2&gt;&#xA;&lt;p&gt;As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, and implementing the trainings in rapid fashion for when itteration was needed. From the get-go keeping multiplayer in mind however, as the trainings were meants to or be monitored, or be done by multiple people at the same time&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Transfr</title>
       <link>http://localhost:1313/transfr/</link>
       <pubDate>Fri, 01 Oct 2021 11:05:08 +0100</pubDate>
       <guid>http://localhost:1313/transfr/</guid>
       <description>&lt;p&gt;During this time I was a Developer through Triangle Factory doing B2B for Transfr, a company creating and shipping VR Trainings.&#xA;My day to day work included taking the Training, analyzing the needed work, making time estimates for how long tasks would take, communicating with the training creator about issues or tweaks they came accross, communicating with the lead engineers for bugs in the framework and possible solutions, going back to older products and bringing them up to par with the new quality standard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Onebonsai</title>
+      <link>http://localhost:1313/onebonsai/</link>
+      <pubDate>Sun, 14 Feb 2021 11:25:25 +0100</pubDate>
+      <guid>http://localhost:1313/onebonsai/</guid>
+      <description>&lt;p&gt;OneBonsai is scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technical-details&#34;&gt;Technical details&lt;/h2&gt;&#xA;&lt;p&gt;UE4, Perforce, Development for: Meta Quest and PCVR&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-team&#34;&gt;The team:&lt;/h2&gt;&#xA;&lt;p&gt;Under OneBonsai, with a team of about 5 people&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My role:&lt;/h2&gt;&#xA;&lt;p&gt;As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, and implementing the trainings in rapid fashion for when itteration was needed. From the get-go keeping multiplayer in mind however, as the trainings were meants to or be monitored, or be done by multiple people at the same time&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
