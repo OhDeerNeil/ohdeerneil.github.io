@@ -4,8 +4,9 @@ date = '2021-10-01T11:05:08+01:00'
 draft = true
 tags= ["B2B", "C#"]
 featured= true
-description= "VR Trainings made for Transfr"
+description= "VR Trainings"
 cover= "Transfr.jpg"
+weight= 3
 +++
 
 During this time I was a Developer through Triangle Factory doing B2B for Transfr, a company creating and shipping VR Trainings.

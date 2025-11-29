@@ -5,7 +5,7 @@ title = 'Forefront'
 tags= ["Games", "C#"]
 featured= true
 description= "Forefront: a fun chaotic shooter in VR"
-cover= "ForeFront_Logo.png"
+cover= "Forefront_KeyArt_3840x2160.png"
 weight= 3
 +++
 
