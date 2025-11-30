@@ -49,8 +49,21 @@
     & .card-img {
         width: 150px;
         height: auto;
+        max-height: 100px;
+        min-height: 40px;
         align-self: center;
     }
+    & .card-content {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        flex-direction: column;
+    }
+
+    & .card-tags{
+       align-items: start;
+    }
+
     & .tag {
         background-color: #aaa;
         color: white;
