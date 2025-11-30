@@ -13,22 +13,24 @@ weight= 3
 
 OneBonsai is scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.
 
-### Technical details
-UE4, Perforce, Development for: Meta Quest and PCVR
+**Created with** UE4, Perforce
+
+**Development for** Meta Quest and PCVR
 
 ### The team:
 Under OneBonsai, with a team of about 5 people
 
 ### My role:
-As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, and implementing the trainings in rapid fashion for when itteration was needed. From the get-go keeping multiplayer in mind however, as the trainings were meants to or be monitored, or be done by multiple people at the same time
+As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, helping brainstorm for different training situations, and implementing the trainings in rapid itteration. 
+
+Keeping multiplayer in mind from the get-go however, as the trainings were meants to; or be monitored, or be done by multiple people at the same time.
 
 ### My main contributions:
 
-Specific roles
-* Teleporting system
+Specific tasks
+* Teleporting system: updating the current teleportation system for more clarity, and more diverse functionality so it can be used in different trainings.
 * Upgrading legacy projects to support multiplayer and support new UE versions
 * Supporting internal blueprinting utilities
-* NPC behaviour 
 
 Specific trainings
 * Work on the [Evacuation Training](https://onebonsai.com/cases/projects/evacuation-training)

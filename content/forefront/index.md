@@ -11,7 +11,7 @@ weight= 3
 
 ### The project:
 
-[Forefront](https://www.youtube.com/watch?v=QQhvyFRlYcs) is a chaotic 32 player shooter, trying to bring those battlefield moments into VR.
+[Forefront](https://www.youtube.com/watch?v=QQhvyFRlYcs) is a chaotic 32 player shooter, bringing those "only battlefield moments" into VR.
 Making players work together in squads to take the objectives, and making sure they use all available gadgets and vehicles to give their team an edge.
 
 
@@ -25,18 +25,23 @@ Created by TriangleFactory, at peak the team was around 35 people.
 ### My role:
 As a programmer, my role existed out of the expected support of main features, to helping out with performance wherever possible, to implementing systems that needed to fit the full picture, with the following being some of the main features I was responsible for:
 **Features**
- - nametag system
- - explosive charge
- - UI rotation systems
+ - Nametag system: allowing players to from a distance get a clear grasp of the other players allegiance.
+ - The explosive charge: allowing the throwing of an sticky C4 that could be detonated at the press of a button.
+
  - LineOfSightObstruction system
  - spotting system
- - voice chat
- - UI Priority system
- - score system
- - TRC's for the Quest release
- - Vehicle UI
+ - Voice chat: bringing over the lessons learned from the vivox implementation in [Breachers](/content/breachers/index.md), making it more robuust and preparing it for future projects
+- score system
+
+ - UI rotation systems: creating different systems that allowed the UI to rotate allong correctly with: body rotation, head rotation or stick rotation 
+ - UI Priority system: creating a system that could be easily extended, making sure that different UI groups could be created that would only show the highest priority and hide the others.
+
+
+ - Vehicle UI: implementing the HUD for every vehicle and making them easy to change for future varriations.
  - Killer highlights 
  - improved hit indicators
+
+  - TRC's for the Quest release
 
 
 Some of the notable support I worked on:
