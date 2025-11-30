@@ -29,54 +29,72 @@
     HOME PAGE
  */
 #home {
+    max-width: 70rem;
+    margin: 0 auto;
+}
+
+#home h1{
+    margin-top: 15rem;
+    align-self: center;
+}
+
+.card {
+    flex-grow: 1;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 1em 0;
     display: flex;
-    flex-direction: column;
-}
-#home h1 {
-    margin-top: 2rem;
-    margin-bottom: 0;
-    text-align: center;
-}
-#home-grid {
-    margin: 2rem auto;
-    padding: 0 1rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    max-width: 60rem;
-}
-.project-card {
-    padding: 0;
-    border: 1px solid #51595c;
-    border-radius: 0.5rem;
-    display: flex;
-    flex-direction: column;
+    gap: 1em;
     overflow: hidden;
+    & .card-img {
+        width: 150px;
+        height: auto;
+        align-self: center;
+    }
+    & .tag {
+        background-color: #aaa;
+        color: white;
+        border-radius: 5px;
+        padding: 0.25em 0.5em;
+    }
 }
-.project-card .card-cover img {
-    max-width: 100%;
-}
-.project-card .card-content {
+.timeline-item {
     display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    flex-grow: 1;
+    gap: 0.5em;
 }
-.project-card .card-title {
-    font-weight: 700;
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
+.timeline-container {
+    width: 3em;
+    position: relative;
+    flex-shrink: 0;
+    & .timeline-circle {
+        /*border: 3px solid black;*/
+        position: relative;
+        top: 3em;
+        background-color: black;
+        width: 2em;
+        aspect-ratio: 1;
+        border-radius: 100%;
+        /*box-shadow: 0 0 0 0.25em white;*/
+        box-shadow: white 0px 0px 0px 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    & .timeline-line {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0.9em;
+        width: 3px;
+        background-color: black;
+    }
+    & .timeline-year {
+        color: white;
+        font-size: 12px;
+    }
 }
-.project-card .card-description {
-    margin-bottom: 1rem;
-    flex-grow: 1;
-}
-.project-card .card-tags {
-    border-top: 1px solid #51595c;
-    padding: 0.75rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.25rem;
+.timeline-item:first-of-type .timeline-line {
+    top: 3em;
 }
 
 /*
