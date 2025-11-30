@@ -1,7 +1,7 @@
 +++
 title= "Transfr"
 date = '2021-10-01T11:05:08+01:00'
-draft = true
+draft = false
 tags= ["B2B", "C#"]
 featured= true
 description= "VR Trainings"
