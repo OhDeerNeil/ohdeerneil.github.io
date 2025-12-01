@@ -11,19 +11,19 @@ weight= 3
 
 ### The company:
 
-OneBonsai is scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.
+OneBonsai is a scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.
 
 **Created with** UE4, Perforce
 
 **Development for** Meta Quest and PCVR
 
 ### The team:
-Under OneBonsai, with a team of about 5 people
+Under OneBonsai, active development was with about 5 people
 
 ### My role:
-As a junior programmer, my role existed out of talking to the training designers, asking for more clarity where needed, helping brainstorm for different training situations, and implementing the trainings in rapid itteration. 
+As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid itteration. 
 
-Keeping multiplayer in mind from the get-go however, as the trainings were meants to; or be monitored, or be done by multiple people at the same time.
+Keeping multiplayer in mind and developing the trainings so they could be or monitored, or be done by multiple people at the same time.
 
 ### My main contributions:
 
@@ -32,9 +32,9 @@ Specific tasks
 * Upgrading legacy projects to support multiplayer and support new UE versions
 * Supporting internal blueprinting utilities
 
-Specific trainings
-* Work on the [Evacuation Training](https://onebonsai.com/cases/projects/evacuation-training)
-* Work on the [Fire Training](https://onebonsai.com/cases/projects/fire-training-securitas)
-* Work on the [Warehouse packing Training](https://onebonsai.com/cases/projects/vr-warehouse-packing)
+Specific contributed to trainings
+* The [Evacuation Training](https://onebonsai.com/cases/projects/evacuation-training)
+* The [Fire Training](https://onebonsai.com/cases/projects/fire-training-securitas)
+* The [Warehouse packing Training](https://onebonsai.com/cases/projects/vr-warehouse-packing)
 
 {{< youtube PwJA5_lj9Hg >}}
