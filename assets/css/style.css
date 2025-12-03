@@ -80,7 +80,6 @@
     & .tag {
         color: rgb(6, 138, 87);
         border-radius: 5px;
-        padding: 0.25em 0.5em;
     }
 }
 .timeline-item {
