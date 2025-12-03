@@ -4,8 +4,8 @@ draft = false
 title = 'Breachers'
 tags= ["Games", "C#"]
 featured= true
-description= "Breachers: a competitive shooter in VR"
-cover= "BreachersLogo.png"
+description= "A competitive shooter in VR"
+cover= "Breachers_KeyArt.png"
 weight= 3
 +++
 
