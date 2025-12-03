@@ -79,8 +79,7 @@
     }
 
     & .tag {
-        background-color: #aaa;
-        color: white;
+        color: rgb(6, 138, 87);
         border-radius: 5px;
         padding: 0.25em 0.5em;
     }
@@ -119,9 +118,30 @@
         color: white;
         font-size: 12px;
     }
+    
 }
 .timeline-item:first-of-type .timeline-line {
     top: 3em;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: black;
+    color: white;
+  }
+  .timeline-container{
+    & .timeline-circle{
+        background: black;
+        color: white;
+    }
+    & .timeline-line {
+        background: white;
+        color: black;
+    }
+  }
+  .card {
+    border: 1px solid white;
+  }
 }
 
 /*
