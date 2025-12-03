@@ -23,5 +23,5 @@ copyright = "©️ 2021 - 2025 | Neil De Hert"
     weight = 2
   [[menu.main]]
     name = "Resume"
-    url = "/resumeneil.pdf"
+    url = "/resume.pdf"
     weight = 3
