@@ -43,6 +43,7 @@
 #home {
     max-width: 70rem;
     margin: 0 auto;
+    margin-bottom: 2rem;
 }
 
 #home h1{
@@ -58,10 +59,10 @@
     display: flex;
     gap: 1em;
     overflow: hidden;
+    height: 110px;
     & .card-img {
-        width: 150px;
+        width: 200px;
         height: auto;
-        max-height: 100px;
         min-height: 40px;
         align-self: center;
     }
@@ -87,15 +88,15 @@
     gap: 0.5em;
 }
 .timeline-container {
-    width: 3em;
+    width: 4em;
     position: relative;
     flex-shrink: 0;
     & .timeline-circle {
         /*border: 3px solid black;*/
         position: relative;
-        top: 3em;
+        top: 2em;
         background-color: black;
-        width: 2em;
+        width: 2.5em;
         aspect-ratio: 1;
         border-radius: 100%;
         /*box-shadow: 0 0 0 0.25em white;*/
@@ -108,7 +109,7 @@
         position: absolute;
         top: 0;
         bottom: 0;
-        left: 0.9em;
+        left: 1.15em;
         width: 3px;
         background-color:  black;
     }
