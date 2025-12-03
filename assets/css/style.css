@@ -266,6 +266,12 @@
     padding: 0;
 }
 
+.secondary-intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+}
+
 /* Small screen laptops */
 @media screen and (max-width: 991px) {
     .content {
