@@ -54,7 +54,7 @@
 
 .card {
     flex-grow: 1;
-    border: 1px solid var(--background-dark);
+    border: 1px solid black;
     border-radius: 10px;
     margin: 1em 0;
     display: flex;
@@ -97,7 +97,7 @@
         /*border: 3px solid black;*/
         position: relative;
         top: 3em;
-        background-color: var(--background-dark);
+        background-color: black;
         width: 2em;
         aspect-ratio: 1;
         border-radius: 100%;
@@ -113,7 +113,7 @@
         bottom: 0;
         left: 0.9em;
         width: 3px;
-        background-color:  var(--background-dark);
+        background-color:  black;
     }
     & .timeline-year {
         color: white;
