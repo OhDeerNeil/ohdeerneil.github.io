@@ -118,7 +118,6 @@
         color: white;
         font-size: 12px;
     }
-    
 }
 .timeline-item:first-of-type .timeline-line {
     top: 3em;
@@ -311,5 +310,79 @@
 @media screen and (max-width: 480px) {
     .about .skills-container {
         grid-template-columns: 1fr;
+    }
+}
+
+/* display: flex;
+        justify-content: baseline;
+        align-items: center; */
+/* 
+    NAVBAR
+ */
+#nav {
+    position: sticky;
+    top: 0;
+    z-index: 10000;
+    background: #F5F5F5;
+    border-bottom: 1px solid #EAEAEA;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    min-height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @media (prefers-color-scheme: dark) {
+        background: #505050;
+        border-bottom: 1px solid #AAA;
+  }
+}
+
+.nav-content {
+    display: flex;
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 1rem 0;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+.nav-item {
+        
+}
+.nav-title {
+    font-weight: 500;
+}
+.nav-link {
+    color: var(--text);
+    display: inline-block;
+    font-weight: normal;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: var(--text) !important;
+    border-radius: 0.25rem;
+    transition: 0.15s background-color;
+}
+.nav-link:hover,
+.nav-link:active {
+    background-color: var(--background-lighter);
+}
+.nav-link.active {
+    background-color: var(--background-light);
+    font-weight: bold;
+}
+.nav-link.active:hover {
+    background-color: var(--background-lighter);
+}
+
+/* Hide site title in navbar on mobile */
+@media screen and (max-width: 768px) {
+    #nav .nav-title {
+        display: none;
+    }
+    #nav .nav-content {
+        padding: 1rem 0;
+        gap: 0.5rem;
+    }
+    #nav .nav-link {
+        padding: 0.75rem 0.8rem;
     }
 }
