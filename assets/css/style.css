@@ -245,17 +245,6 @@
     border-radius: 99999px;
 }
 
-/* .about .skills-container {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    /* justify-content: space-between; */
-    /* flex-wrap: wrap; */
-/* } */
-/*.about .skills-container ul {
-    padding-left: 1rem;
-} */
-
-
 .about .secondary-intro {
     display: flex;
     flex-direction: row;
