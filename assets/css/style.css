@@ -1,3 +1,8 @@
+body {
+    /* make sure that the body is tall enough to host all the contents */
+    height: min-content;
+}
+
 /*
     FOOTER
  */
