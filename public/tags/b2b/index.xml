@@ -11,16 +11,16 @@
     <atom:link href="http://localhost:1313/tags/b2b/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transfr</title>
-      <link>http://localhost:1313/transfr/</link>
+      <link>http://localhost:1313/projects/transfr/</link>
       <pubDate>Fri, 01 Oct 2021 11:05:08 +0100</pubDate>
-      <guid>http://localhost:1313/transfr/</guid>
+      <guid>http://localhost:1313/projects/transfr/</guid>
       <description>&lt;h3 id=&#34;the-project&#34;&gt;The project:&lt;/h3&gt;&#xA;&lt;p&gt;During my time at Triangle Factory I started working as a developer in a B2B sceneario, where we developed VR Trainings for the client Transfr.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Created with&lt;/strong&gt; Unity3D&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Developed for&lt;/strong&gt; Meta Quest 2&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-team&#34;&gt;The team:&lt;/h3&gt;&#xA;&lt;p&gt;It was generally one developer per training, supervised by a PM to oversee communication towards Transfr designers.&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-role&#34;&gt;My role:&lt;/h3&gt;&#xA;&lt;p&gt;My day to day work existed out of the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;After the initial handover of the training and analyzing the needed work: making time estimates for how long tasks would take.&lt;/li&gt;&#xA;&lt;li&gt;Communicating with the designer about issues or possible tweaks we came accross.&lt;/li&gt;&#xA;&lt;li&gt;Communicating with the lead engineers for bugs in the framework and possible solutions.&lt;/li&gt;&#xA;&lt;li&gt;Going back to older products and bringing them up to par with the new quality standard.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Some examples of the shipped modules for &lt;a &#xD;&#xA;    href=&#34;https://transfrinc.com/&#34;&#xD;&#xA;    &#xD;&#xA;     target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;&gt;Transfr&lt;/a&gt; I worked on:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Onebonsai</title>
-      <link>http://localhost:1313/onebonsai/</link>
+      <link>http://localhost:1313/projects/onebonsai/</link>
       <pubDate>Sun, 14 Feb 2021 11:25:25 +0100</pubDate>
-      <guid>http://localhost:1313/onebonsai/</guid>
+      <guid>http://localhost:1313/projects/onebonsai/</guid>
       <description>&lt;h3 id=&#34;the-company&#34;&gt;The company:&lt;/h3&gt;&#xA;&lt;p&gt;OneBonsai is a scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Created with&lt;/strong&gt; UE4, Perforce&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Development for&lt;/strong&gt; Meta Quest and PCVR&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-team&#34;&gt;The team:&lt;/h3&gt;&#xA;&lt;p&gt;Under OneBonsai, active development was with about 5 people&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-role&#34;&gt;My role:&lt;/h3&gt;&#xA;&lt;p&gt;As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid itteration.&lt;/p&gt;</description>
     </item>
   </channel>

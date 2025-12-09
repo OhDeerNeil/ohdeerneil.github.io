@@ -1,13 +1,13 @@
-+++
-date = '2025-11-28T11:08:53+01:00'
-draft = false
-title = 'Forefront'
-tags= ["Games", "C#"]
-featured= true
-description= "A fun chaotic shooter in VR"
-cover= "Forefront_KeyArt_3840x2160.png"
-weight= 3
-+++
+---
+date: "2025-11-28T11:08:53+01:00"
+draft: false
+Title: "Forefront"
+tags: ["Games", "C#"]
+featured: true
+description: "A fun chaotic shooter in VR"
+cover: "Forefront_KeyArt_3840x2160.png"
+weight: 3
+---
 
 ### The project:
 
