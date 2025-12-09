@@ -1,3 +1,8 @@
+body {
+    /* make sure that the body is tall enough to host all the contents */
+    height: min-content;
+}
+
 /*
     FOOTER
  */
@@ -146,9 +151,7 @@
 .container {
     max-width: 80rem;
     width: 100%;
-    margin-top: 2rem;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 2rem auto;
 }
 .content {
     max-width: 70rem;
