@@ -75,11 +75,10 @@
 
     & .card-tags{
        align-items: start;
-    }
-
-    & .tag {
-        color: rgb(6, 138, 87);
-        border-radius: 5px;
+       & .tag {
+            color: rgb(6, 138, 87);
+            border-radius: 5px;
+        }
     }
 }
 .timeline-item {
