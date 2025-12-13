@@ -23,7 +23,7 @@ Making players work together in squads to take the objectives, and making sure t
 Created by TriangleFactory, at peak the team was around 35 people.
 
 ### My role:
-As a programmer, my role existed out of the expected bugfixing, to helping out with performance wherever possible, to implementing systems that needed to fit the full picture, with the following being some of the main features I was responsible or co-responsible for
+As a programmer, my role existed out of the expected bugfixing, from helping out with performance wherever possible, to implementing systems that needed to fit the full picture, with the following being some of the main features I was responsible or co-responsible for
 
 
 **Features**
@@ -36,7 +36,7 @@ As a programmer, my role existed out of the expected bugfixing, to helping out w
  - Voice chat: bringing over the lessons learned from the vivox implementation in [Breachers](/content/breachers/index.md), making it more robust and preparing it for future projects.
 - Score system: making sure the players are awarded their points for the in game activities, allowing our progression system to reward them.
 
- - UI rotation systems: creating different systems that allowed the UI to rotate along correctly with: body rotation, head rotation or stick rotation .
+ - UI rotation systems: creating different systems that allowed the UI to rotate along correctly with: body rotation, head rotation or stick rotation.
  - UI Priority system: creating an easily extendable system that would show the highest priority UI of different UI groups.
  - Vehicle UI: implementing the HUD for every vehicle and making them easy to change for future variations.
  - Killer highlights: to communicate to the player who or what killed them.

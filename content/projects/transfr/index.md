@@ -22,14 +22,14 @@ It was generally one developer per training, supervised by a PM to oversee commu
 
 ### My role:
 My day to day work existed out of the following:
-- After the initial handover of the training and analyzing the needed work: making time estimates for how long tasks would take.
+- After the initial handover of the training and analyzing the needed work. making time estimates for how long tasks would take.
 - Communicating with the designer about issues or possible tweaks we came accross.
 - Communicating with the lead engineers for bugs in the framework and possible solutions.
 - Going back to older products and bringing them up to par with the new quality standard. 
 
 Some examples of the shipped modules for [Transfr](https://transfrinc.com/) I worked on:
-* [Electrical construction](https://transfrinc.com/products/electrical-construction/)
-* [Diesel training](https://transfrinc.com/products/diesel/)
-* [Aviation](https://transfrinc.com/products/aviation/)
+* [Electrical construction](https://transfrinc.com/products/electrical-construction/).
+* [Diesel training](https://transfrinc.com/products/diesel/).
+* [Aviation](https://transfrinc.com/products/aviation/).
 
 {{< youtube -hwzPmRWdis >}}

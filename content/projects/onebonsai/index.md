@@ -21,7 +21,7 @@ OneBonsai is a scale-up company specialized in creating Virtual Reality training
 Under OneBonsai, active development was with about 5 people
 
 ### My role:
-As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid itteration. 
+As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid iteration. 
 
 Keeping multiplayer in mind and developing the trainings so they could be or monitored, or be done by multiple people at the same time.
 
@@ -29,12 +29,12 @@ Keeping multiplayer in mind and developing the trainings so they could be or mon
 
 Specific tasks
 * Teleporting system: updating the current teleportation system for more clarity, and more diverse functionality so it can be used in different trainings.
-* Upgrading legacy projects to support multiplayer and support new UE versions
-* Supporting internal blueprinting utilities
+* Upgrading legacy projects to support multiplayer and support new UE versions.
+* Supporting internal blueprinting utilities.
 
 Specific contributed to trainings
-* The [Evacuation Training](https://onebonsai.com/cases/projects/evacuation-training)
-* The [Fire Training](https://onebonsai.com/cases/projects/fire-training-securitas)
-* The [Warehouse packing Training](https://onebonsai.com/cases/projects/vr-warehouse-packing)
+* The [Evacuation Training](https://onebonsai.com/cases/projects/evacuation-training).
+* The [Fire Training](https://onebonsai.com/cases/projects/fire-training-securitas).
+* The [Warehouse packing Training](https://onebonsai.com/cases/projects/vr-warehouse-packing).
 
 {{< youtube PwJA5_lj9Hg >}}
