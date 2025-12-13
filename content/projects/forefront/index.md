@@ -15,13 +15,13 @@ weight: 3
 Making players work together in squads to take the objectives, and making sure they use all available gadgets and vehicles to give their team an edge. Created with an in-house varriant of ECS.
 
 
-**Created with** Unity3D, Blender, Photon Fusion 2
+**Created with** Unity3D, Photon Fusion 2, Vivox
 
 **Developed for** Meta Quest 2/Meta Quest 3, Pico, and Steam VR
 
 
 ### My role:
-As a programmer, my role existed out of the expected bugfixing, from helping out with performance wherever possible, to implementing systems that needed to fit the full picture, with the following being some of the main features I was responsible or co-responsible for
+As a programmer, my role consisted of implementing systems fitting the full picture of the project - with the below listing being some of the main features I was responsible or co-responsible for, making sure performance was respected wherever possible, and bugfixing and upkeeping the technical health of the project.
 
 
 **Features**
@@ -31,7 +31,7 @@ As a programmer, my role existed out of the expected bugfixing, from helping out
  - Line of Sight Obstruction system: making sure that players can't use their gadgets or guns when these are inside of walls.
  - Spotting system: allowing players to showcase the enemy icons by aiming at them through all weapon variants.
 
- - Voice chat: bringing over the lessons learned from the vivox implementation in [Breachers](/content/breachers/index.md), making it more robust and preparing it for future projects.
+ - Voice chat: bringing over the lessons learned from the Vivox implementation in [Breachers](/content/breachers/index.md), making it more robust and preparing it for future projects.
 - Score system: making sure the players are awarded their points for the in game activities, allowing our progression system to reward them.
 
  - UI rotation systems: creating different systems that allowed the UI to rotate along correctly with: body rotation, head rotation or stick rotation.

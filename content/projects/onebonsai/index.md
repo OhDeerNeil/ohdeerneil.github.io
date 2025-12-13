@@ -13,7 +13,7 @@ weight: 3
 
 OneBonsai is a scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.
 
-**Created with** UE4, Perforce
+**Created with** Unreal Engine, Perforce
 
 **Development for** Meta Quest and PCVR
 
