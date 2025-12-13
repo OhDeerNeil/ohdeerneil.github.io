@@ -17,8 +17,6 @@ OneBonsai is a scale-up company specialized in creating Virtual Reality training
 
 **Development for** Meta Quest and PCVR
 
-### The team:
-Under OneBonsai, active development was with about 5 people
 
 ### My role:
 As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid iteration. 

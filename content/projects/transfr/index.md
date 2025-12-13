@@ -16,9 +16,7 @@ During my time at Triangle Factory I started working as a developer in a B2B sce
 
 **Developed for** Meta Quest 2
 
-### The team:
 
-It was generally one developer per training, supervised by a PM to oversee communication towards Transfr designers. 
 
 ### My role:
 My day to day work existed out of the following:

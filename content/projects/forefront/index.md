@@ -19,8 +19,6 @@ Making players work together in squads to take the objectives, and making sure t
 
 **Developed for** Meta Quest 2/Meta Quest 3, Pico, and Steam VR
 
-### The team:
-Created by TriangleFactory, at peak the team was around 35 people.
 
 ### My role:
 As a programmer, my role existed out of the expected bugfixing, from helping out with performance wherever possible, to implementing systems that needed to fit the full picture, with the following being some of the main features I was responsible or co-responsible for
