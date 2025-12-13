@@ -1,13 +1,13 @@
-+++
-title= "Transfr"
-date = '2021-10-01T11:05:08+01:00'
-draft = false
-tags= ["B2B", "C#"]
-featured= true
-description= "VR Trainings"
-cover= "Transfr.jpg"
-weight= 3
-+++
+---
+title: "Transfr"
+date: "2021-10-01T11:05:08+01:00"
+draft: false
+tags: ["B2B", "Unity", "Triangle Factory"]
+featured: true
+description: "VR Trainings"
+cover: "Transfr.jpg"
+weight: 3
+---
 
 ### The project:
 During my time at Triangle Factory I started working as a developer in a B2B sceneario, where we developed VR Trainings for the client Transfr.
@@ -15,7 +15,6 @@ During my time at Triangle Factory I started working as a developer in a B2B sce
 **Created with** Unity3D
 
 **Developed for** Meta Quest 2
-
 
 
 ### My role:

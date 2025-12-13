@@ -1,13 +1,13 @@
-+++
-date = '2023-04-13T18:26:17+01:00'
-draft = false
-title = 'Breachers'
-tags= ["Games", "C#"]
-featured= true
-description= "A competitive shooter in VR"
-cover= "Breachers_KeyArt.png"
-weight= 3
-+++
+---
+date: "2023-04-13T18:26:17+01:00"
+draft: false
+title: "Breachers"
+tags: ["Games", "Unity", "Triangle Factory"]
+featured: true
+description: "A competitive shooter in VR"
+cover: "Breachers_KeyArt.png"
+weight: 3
+---
 
 ### The project:
 

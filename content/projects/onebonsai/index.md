@@ -1,13 +1,13 @@
-+++
-date = '2021-02-14T11:25:25+01:00'
-draft = false
-title = 'Onebonsai'
-tags= ["B2B", "C++", "Blueprinting"]
-featured= true
-description= "Multiplayer VR Trainings made for different clients"
-cover= "OneBonsai.png"
-weight= 3
-+++
+---
+date: "2021-02-14T11:25:25+01:00"
+draft: false
+title: "Onebonsai"
+tags: ["B2B",  "Unreal Engine", "OneBonsai"]
+featured: true
+description: "Multiplayer VR Trainings made for different clients"
+cover: "OneBonsai.png"
+weight: 3
+---
 
 ### The company:
 
