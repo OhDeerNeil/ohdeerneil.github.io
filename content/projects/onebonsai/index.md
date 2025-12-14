@@ -11,7 +11,7 @@ weight: 3
 
 ### The company:
 
-OneBonsai is a scale-up company specialized in creating Virtual Reality trainings, both custom made and general purpose, for small and large companies.
+OneBonsai is a scale-up company specialized in creating Virtual Reality trainings, both custom-made and general-purpose, for small and large companies.
 
 **Created with** Unreal Engine, Perforce
 
@@ -19,14 +19,14 @@ OneBonsai is a scale-up company specialized in creating Virtual Reality training
 
 
 ### My role:
-As a junior programmer, my role consisted out of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid iteration. 
+As a junior programmer, my role consisted of talking to the training designers, asking for more clarification where needed, helping brainstorm for different training situations, and implementing the trainings in rapid iteration. 
 
-Keeping multiplayer in mind and developing the trainings so they could be or monitored, or be done by multiple people at the same time.
+Keeping multiplayer in mind and developing the trainings so they could be monitored, or be done by multiple people at the same time.
 
 ### My main contributions:
 
 Specific tasks
-* Teleporting system: updating the current teleportation system for more clarity, and more diverse functionality so it can be used in different trainings.
+* Teleporting system: updating the current teleportation system for more clarity and more diverse functionality so it can be used in different trainings.
 * Upgrading legacy projects to support multiplayer and support new UE versions.
 * Supporting internal blueprinting utilities.
 

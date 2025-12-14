@@ -295,7 +295,7 @@ body {
         justify-self: right;
     }
 
-    & .skils p{
+    & .skils ul{
         margin: 0.5px;
         padding: 0;
     }
