@@ -83,6 +83,10 @@ body {
             justify-content: center;
             align-items: start;
             flex-direction: column;
+            & .card-title{
+                font-weight: bold;
+                font-style: italic;
+            }
             & .card-tags{
                 align-items: start;
                 & .tag {
