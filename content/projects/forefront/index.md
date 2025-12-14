@@ -4,7 +4,7 @@ draft: false
 Title: "Forefront"
 tags: ["Games", "Unity", "Triangle Factory"]
 featured: true
-description: "A fun chaotic shooter in VR"
+description: "Massive 32-player battles with semi-destructive environment all on standalone VR"
 cover: "Forefront_KeyArt_3840x2160.png"
 weight: 3
 ---

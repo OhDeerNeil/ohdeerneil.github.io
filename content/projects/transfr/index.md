@@ -4,7 +4,7 @@ date: "2021-10-01T11:05:08+01:00"
 draft: false
 tags: ["B2B", "Unity", "Triangle Factory"]
 featured: true
-description: "VR Trainings"
+description: "VR simulations given through modern workforce education"
 cover: "Transfr.jpg"
 weight: 3
 ---

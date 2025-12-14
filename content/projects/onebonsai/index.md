@@ -4,7 +4,7 @@ draft: false
 title: "Onebonsai"
 tags: ["B2B",  "Unreal Engine", "OneBonsai"]
 featured: true
-description: "Multiplayer VR Trainings made for different clients"
+description: "Multiplayer VR simulations to train with modern means"
 cover: "OneBonsai.png"
 weight: 3
 ---

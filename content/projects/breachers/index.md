@@ -4,7 +4,7 @@ draft: false
 title: "Breachers"
 tags: ["Games", "Unity", "Triangle Factory"]
 featured: true
-description: "A competitive shooter in VR"
+description: "A competitive round-based multiplayer shooter in VR"
 cover: "Breachers_KeyArt.png"
 weight: 3
 ---
