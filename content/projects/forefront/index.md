@@ -11,7 +11,7 @@ weight: 3
 
 ### The project:
 
-[Forefront](https://www.youtube.com/watch?v=QQhvyFRlYcs) is a chaotic 32 player shooter, bringing those "only battlefield moments" into VR.
+[Forefront](https://www.youtube.com/watch?v=QQhvyFRlYcs) is a chaotic 32 player shooter, bringing those "only in Battlefield moments" into VR.
 Making players work together in squads to take the objectives, and making sure they use all available gadgets and vehicles to give their team an edge. Created with an in-house varriant of ECS.
 
 
@@ -40,7 +40,7 @@ As a programmer, my role consisted of implementing systems fitting the full pict
  - Killer highlights: to communicate to the player who or what killed them.
  - Directional hit indicators: in a similar vein as the Killer highlights, helping player feedback. 
 
- - Adhering to the TRC's for the Quest release.
+ - Adhering to the [TRC's](https://developers.meta.com/horizon/resources/publish-quest-req) for the Quest release.
 
 
 #### Some of the notable support I worked on:
@@ -48,14 +48,14 @@ As a programmer, my role consisted of implementing systems fitting the full pict
 **Performance**:
 
 Because of the scale, we always had to keep the following in mind: 
- - Jobifying systems: using unity's solution to multithread where it made sense.
+ - Job systems: using unity's solution to multithread where it made sense.
  - GBAlloc: making sure all small garbage allocations are followed up on and kept to a minimum.
  - UI optimizations: overdraw, sprite renderers vs canvas cost, etc.
  - Keeping network traffic to a minimum.
 
 
 **Bugfixes**
- - Ordered spawning: because of our inability to receive spawning and depsawning packages in the correct order, we had to implement a system that would wait for certain packages to be handled before the rest of the game could work with the new info.
+ - Ordered spawning: because of our inability to receive spawning and depspawning packages in the correct order, we had to implement a system that would wait for certain packages to be handled before the rest of the game could work with the new info.
  - Memory leaks: following up on memory leaks that snuck through the cracks and squashing them.
  - Suttering Zipline and nametags: for various reasons, but it boiled down to the order of setting, and getting data, and then making sure this still happened correctly while keeping our optimizations intact.
 
@@ -63,6 +63,4 @@ Because of the scale, we always had to keep the following in mind:
  - Cleanup of the spawn menu UI
 
 
-
-
- {{< youtube QQhvyFRlYcs >}}
+ {{< youtube id=QQhvyFRlYcs class=youtube-link >}}

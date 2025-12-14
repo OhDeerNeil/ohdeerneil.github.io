@@ -35,4 +35,4 @@ Specific contributed to trainings
 * The [Fire Training](https://onebonsai.com/cases/projects/fire-training-securitas).
 * The [Warehouse packing Training](https://onebonsai.com/cases/projects/vr-warehouse-packing).
 
-{{< youtube PwJA5_lj9Hg >}}
+{{< youtube id=PwJA5_lj9Hg class=youtube-link >}}

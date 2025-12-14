@@ -12,7 +12,7 @@ weight: 3
 ### The project:
 During my time at Triangle Factory I started working as a developer in a B2B sceneario, where we developed VR Trainings for the client Transfr.
 
-**Created with** Unity3D
+**Created with** Unity3D, Unity Meta Package, In-house framework
 
 **Developed for** Meta Quest 2
 
@@ -29,4 +29,4 @@ Some examples of the shipped modules for [Transfr](https://transfrinc.com/) I wo
 * [Diesel training](https://transfrinc.com/products/diesel/).
 * [Aviation](https://transfrinc.com/products/aviation/).
 
-{{< youtube -hwzPmRWdis >}}
+{{< youtube id=-hwzPmRWdis class=youtube-link >}}

@@ -41,4 +41,4 @@ As a junior programmer, my role consisted of implementing and supporting the fol
 * Vive port
 
 				 
-{{< youtube MlFI6vA5kGA >}}
+{{< youtube id=MlFI6vA5kGA class=youtube-link >}}
