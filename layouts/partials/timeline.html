@@ -1,0 +1,23 @@
+﻿<div id="timeline-grid">
+    {{ range .Site.RegularPages }}
+    {{ if .Params.Timeline }}
+    <div class="timeline-item">
+        <!-- timeline stuff -->
+        <div class="timeline-container">
+            <div class="timeline-line"></div>
+            <div class="timeline-circle"><div class="timeline-year">{{ .Params.Date | time.Format "2006" }}</div></div>
+        </div>
+
+        <!-- card -->
+        <div class="card">
+            <a href="{{ .RelPermalink }}" class="card-link">
+                <div class="card-img">
+                    {{ $image := .Resources.GetMatch .Params.Cover }}
+                    <img src="{{ $image.RelPermalink }}" />
+                </div>
+            </a>
+        </div>
+    </div>
+    {{ end }}
+    {{ end }}
+</div>

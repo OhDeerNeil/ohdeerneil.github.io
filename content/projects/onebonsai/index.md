@@ -3,7 +3,8 @@ date: "2021-02-14T11:25:25+01:00"
 draft: false
 title: "Onebonsai"
 tags: ["B2B",  "Unreal Engine", "OneBonsai"]
-featured: true
+featured: false
+timeline: true
 description: "Multiplayer VR simulations to train with modern means"
 cover: "OneBonsai.png"
 weight: 3

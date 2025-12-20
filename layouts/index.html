@@ -1,45 +1,12 @@
 {{ define "main" }}
 <main id="home">
-    <h1>My work</h1>
+    <h1>The games I worked on</h1>
     <div id="home-grid">
-        {{ range .Site.RegularPages }}
-            {{ if .Params.Featured }}
-                <div class="timeline-item">
-                <!-- timeline stuff -->
-                <div class="timeline-container">
-                    <div class="timeline-line"></div>
-                    <div class="timeline-circle"><div class="timeline-year">{{ .Params.Date | time.Format "2006" }}</div></div>
-                </div>
 
-                <!-- card -->
-                <div class="card">
-                    <a href="{{ .RelPermalink }}" class="card-link">
-                        <div class="card-img">
-                                {{ $image := .Resources.GetMatch .Params.Cover }}
-                                <img src="{{ $image.RelPermalink }}" />
-                        </div>
-                        
-                        <div class="card-content">
-                            <div class="card-title">
-                                {{ .Title }}
-                            </div>
-                            
-                            <div class="card-description">
-                                {{ .Params.Description }}
-                            </div>
-                            
-                            <div class="card-tags">
-                                {{ range .Params.Tags }}
-                                <span class="tag">
-                                    {{ . }}
-                                </span>
-                                {{ end }}
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            {{ end }}
+        {{ range .Site.RegularPages }}
+        {{ if .Params.Featured }}
+            {{- partial "home_element.html" . -}}
+        {{ end }}
         {{ end }}
     </div>
 </main>

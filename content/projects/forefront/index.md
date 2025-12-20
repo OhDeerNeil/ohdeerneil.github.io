@@ -4,7 +4,9 @@ draft: false
 Title: "Forefront"
 tags: ["Games", "Unity", "Triangle Factory"]
 featured: true
+timeline: true
 description: "Massive 32-player battles with semi-destructive environment all on standalone VR"
+jobdescription: "As a programmer, I implemented core-systems, making sure performance was respected, and helped up-keeping the technical health of the project."
 cover: "Forefront_KeyArt_3840x2160.png"
 weight: 3
 ---

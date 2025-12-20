@@ -1,0 +1,27 @@
+﻿<div class="home-element">
+        <div class="element-img">
+            <a href="{{ .RelPermalink }}" class="element-link">
+                {{ $image := .Resources.GetMatch .Params.Cover }}
+                <img src="{{ $image.RelPermalink }}" />
+            </a>
+        </div>
+
+        <div class="element-content">
+            <div class="element-title">
+                {{ .Title }}
+            </div>
+
+            <div class="element-description">
+                {{ .Params.Description }}
+            </div>
+            <div class="element-job-description">
+                {{ .Params.JobDescription }}
+            </div>
+            <p>
+                <a href="{{ .RelPermalink }}" class="element-link">
+                    Read more ->
+                </a>
+            </p>
+        </div>
+
+</div>
