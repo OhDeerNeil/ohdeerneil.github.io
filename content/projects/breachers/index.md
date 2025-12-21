@@ -6,7 +6,7 @@ tags: ["Games", "Unity", "Triangle Factory"]
 featured: true
 timeline: true
 description: "A competitive round-based multiplayer shooter in VR"
-jobdescription: "As a programmer, I had responsibility for gameplay systems, with a high contribution to porting the game."
+jobdescription: "As a programmer, I had responsibility for gameplay systems, with a high contribution to porting the game to different platforms."
 cover: "Breachers_KeyArt.png"
 weight: 3
 ---
