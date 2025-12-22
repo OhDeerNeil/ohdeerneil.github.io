@@ -27,20 +27,17 @@ As a programmer, my role consisted of implementing systems fitting the full pict
 
 
 **Features**
- - Nametag system: allowing players to get a clear grasp of the other players' allegiance from a distance.
- - The explosive charge: allowing the throwing of a sticky C4 that could be detonated at the press of a button.
-
+ - Voice chat: bringing over the lessons learned from the Vivox implementation in [Breachers](/content/breachers/index.md), making it more robust and preparing it for future projects.
  - Line of Sight Obstruction system: making sure that players can't use their gadgets or guns when these are inside walls.
  - Spotting system: allowing players to showcase the enemy icons by aiming at them through all weapon variants.
-
- - Voice chat: bringing over the lessons learned from the Vivox implementation in [Breachers](/content/breachers/index.md), making it more robust and preparing it for future projects.
-- Score system: making sure the players are awarded their points for the in-game activities, allowing our progression system to reward them.
-
+ - Score system: making sure the players are awarded their points for the in-game activities, allowing our progression system to reward them.
  - UI rotation systems: creating different systems that allowed the UI to correctly rotate along with body rotation, head rotation, or stick rotation.
  - UI Priority system: creating an easily extendable system that would show the highest priority UI of different UI groups.
  - Vehicle UI: implementing the HUD for every vehicle and making it easy to change for future variations.
  - Killer highlights: to communicate to the player who or what killed them.
  - Directional hit indicators: in a similar vein as the Killer highlights, helping player feedback. 
+ - Nametag system: allowing players to get a clear grasp of the other players' allegiance from a distance.
+ - The explosive charge: allowing the throwing of a sticky C4 that could be detonated at the press of a button.
 
  - Adhering to the [TRC's](https://developers.meta.com/horizon/resources/publish-quest-req) for the Quest release.
 

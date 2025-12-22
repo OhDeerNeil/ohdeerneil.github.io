@@ -11,7 +11,7 @@ weight: 3
 ---
 
 ### The project:
-During my time at Triangle Factory, I started working as a developer in a B2B scenario, where we developed VR Trainings for the client Transfr.
+During my time at Triangle Factory, I started working as a developer in a B2B scenario, where we developed VR Trainings for Transfr.
 
 **Created with** Unity3D, Unity Meta Package, In-house framework
 
@@ -20,7 +20,7 @@ During my time at Triangle Factory, I started working as a developer in a B2B sc
 
 ### My role:
 My day-to-day work consisted of the following:
-- After the initial handover of the training and analyzing the needed work. making time estimates for how long tasks would take.
+- Making time estimates.
 - Communicating with the designer about issues or possible tweaks we came across.
 - Analyzing and maintaining the in-house framework.
 - Going back to older products and bringing them up to par with the new quality standard. 
