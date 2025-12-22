@@ -397,18 +397,29 @@ body {
 }
 
 /*!* Small screen laptops *!*/
-/*@media screen and (max-width: 991px) {*/
-/*    .content {*/
-/*        max-width: none;*/
-/*        width: auto;*/
-/*        padding: 1rem;*/
-/*    }*/
+@media screen and (max-width: 991px) {
+    .content {
+        max-width: none;
+        width: auto;
+        padding: 1rem;
+    }
+    
+    #home h1{
+        text-align: center;   
+    }
 
-/*    .about .intro {*/
-/*        flex-direction: column;*/
-/*        gap: 0;*/
-/*        padding: 1;*/
-/*    }*/
+    .home-element {
+        flex-direction: column;
+        gap: 0;
+        padding: 1px;
+        height: auto;
+        margin-bottom: 1rem;
+        .element-content {
+            height: auto;
+        }
+    }
+    
+
 
 /*    .about .intro img {*/
 /*        max-width: 10rem;*/
@@ -440,7 +451,7 @@ body {
 /*    .about .skills-container {*/
 /*        grid-template-columns: 1fr;*/
 /*    }*/
-/*}*/
+}
 
 /*
     NAVBAR
