@@ -2,7 +2,7 @@ baseURL = 'https://ohdeerneil.github.io/'
 languageCode = 'en-us'
 title = "Neil De Hert"
 theme = 'beautifulhugo'
-copyright = "©️ 2021 - 2025 | Neil De Hert"
+copyright = "©️ 2021 - 2026 | Neil De Hert"
 staticDir = ["static"]
 
 [Params]
